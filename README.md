@@ -1,55 +1,7 @@
-# C-Game-Hoshruba
+A turn-based, strategy war game developed using C++ and SDL2.
 
-ABOUT THE GAME:
+This project was developed as a part of my Object Oriented Programming course. The final demo for the project can be found on: https://youtu.be/bUN36ey73Uo
 
-The Objective of the game is for each player to defeat the opposing side.
+There is also a GAME EXE zip folder uploaded to the repository. You may download that directly and run the .exe file within it to play the game in all its glory.
 
-StoryLine Screen could not be implemented which was supposed to display the local context.It is based on the 
-popular local folk legend Tilism-e-Hoshruba
-
-Essentially, the L.H.S Player is supposed to adopt the side of Ameer Hamza, the human protaganist, and the R.H.S
-playe adopts the role of Afrasiyab, the monstrous antagonist, hence, the choice of sprites.
-
-
-
-INSTRUCTIONS TO PLAY THE GAME PROPERLY:
-
-The game consists of two screen halves, bottom and up.
-The game is a two player game.
-
-R.H.S Player Unit is spawned using right-shift
-
-L.H.S Player Unit is spawned using space-bar
-
-R.H.S Player Uses Up and Down arrowkeys to navigate between lanes on the bottom screen. There are 4 lanes in total.
-
-L.H.S Player uses W and S keys for the same purposes.
-
-R.H.S Player uses Left and Right arrowkeys to regulate between Units. 4 types of units: swordsman, archer, cavalry, special unit.
-
-L.H.S Player uses A and D keys for the same purposes.
-
-Miners are used to generate money i.e. money generated = 15 * number of miners per turn.
-
-R.H.S Player generates an additional miner using "/" key when one is dead.
-
-L.H.S Player generates an additional miner using "Q" key when one is dead. 
-
-R.H.S Player generates a sabotage unit to destroy other player's miner in a random lane on upper screen using "." key
-
-L.H.S Player generates a sabotage unit to destroy other player's miner in a random lane on upper screen using "E" key
-
-
-
-Game ends automatically when either player or enemy health is below 20. 
-
-Unit Costs:
-- Swordsman: $50
-- Archer: $75
-- Cavalry: $125
-- Special Unit: $200
-- Miner: $250
-- Sabotage Unit: $150
-
-
-Note: Quit Screen code is added in zip file but could not be implemented due to shortage of time.
+However, note that you will need to have SDL2 setup on your device in order to play the game. The attached Project Guide file outlines the process for setting up SDL and provides a brief introduction to how it works.

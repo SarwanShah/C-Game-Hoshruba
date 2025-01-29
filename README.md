@@ -1,7 +1,7 @@
 # Hoshruba - A Game in C++
 
 ## **Project Overview**
-This project was developed under the **CS224 Object-Oriented Programming and Design Methodologies** course at **Habib University**. It focuses on building a game using **SDL (Simple DirectMedia Layer)** while implementing core object-oriented programming concepts such as **UML design, inheritance, polymorphism, encapsulation, and object interactions**.
+This project was developed under the **CS224 Object-Oriented Programming and Design Methodologies** course at **Habib University** during Fall 2018. It focuses on building a game using **SDL (Simple DirectMedia Layer)** while implementing core object-oriented programming concepts such as **UML design, inheritance, polymorphism, encapsulation, and object interactions**.
 
 **VIDEO DEMONSTRATION: https://www.youtube.com/watch?v=CV8p5Sln6ug**
 

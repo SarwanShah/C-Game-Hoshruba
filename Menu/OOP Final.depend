@@ -1,0 +1,1067 @@
+# depslib dependency file v1.0
+1543685966 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\audioicons.cpp
+	"AudioIcons.h"
+
+1543685280 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\audioicons.h
+	"SDL_image.h"
+	"iostream"
+	"string"
+	"LTexture.h"
+	"SDL_mixer.h"
+
+1543758752 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"SDL_ttf.h"
+
+1543685938 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\buttons.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"iostream"
+	"string"
+	"Buttons.h"
+
+1543685702 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\buttons.h
+	"SDL.h"
+	"SDL_image.h"
+	"iostream"
+	"string"
+	"Words.h"
+	"Characters.h"
+	"LTexture.h"
+	"SDL_mixer.h"
+
+1543250138 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\words.h
+	"SDL.h"
+	"SDL_image.h"
+	"iostream"
+	"string"
+	"Words.h"
+	"LTexture.h"
+	"Characters.h"
+
+1543248656 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\characters.h
+	"SDL.h"
+	"SDL_image.h"
+	"iostream"
+	"string"
+	"Characters.h"
+	"LTexture.h"
+
+1543254184 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\characters.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"iostream"
+	"string"
+	"Characters.h"
+
+1543849288 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gamescreen.cpp
+	"GameScreen.h"
+	"IconSlot.h"
+	"GamePlay/GTexture.h"
+
+1543792782 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gamescreen.h
+	"Screen.h"
+	"OnScreenObject.h"
+	<stdio.h>
+	<time.h>
+	<cstdlib>
+	"UI_Bar.h"
+	"UserInterface.h"
+	"Buttons.h"
+	<fstream>
+	<string>
+	"GamePlay/Node.h"
+	"GamePlay/Queue.h"
+	"GamePlay/Map.h"
+	"GamePlay/GTexture.h"
+	"GamePlay/WarriorFactory.h"
+	"GamePlay/Player.h"
+	"GamePlay/Enemy.h"
+	"GamePlay/GamePlay.h"
+
+1543710328 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\screen.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"LTexture.h"
+	"iostream"
+	"string"
+	"SDL_ttf.h"
+
+1543737098 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\onscreenobject.h
+	"SDL.h"
+	"SDL_image.h"
+	"iostream"
+	"string"
+	"LTexture.h"
+
+1543697590 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\ui_bar.h
+	"OnScreenObject.h"
+
+1543778160 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\userinterface.h
+	"UI_Bar.h"
+	"IconSlot.h"
+	"SDL_ttf.h"
+	<iostream>
+	<string>
+	"stdlib.h"
+
+1543734698 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\iconslot.h
+	"OnScreenObject.h"
+	"UnitIcon.h"
+
+1543695404 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\uniticon.h
+	"OnScreenObject.h"
+
+1542388128 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\node.h
+
+1543796090 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\queue.h
+	"Node.h"
+	<iostream>
+	<stdlib.h>
+	<cmath>
+	<fstream>
+	"WarriorFactory.h"
+
+1543765332 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\warriorfactory.h
+	"Warrior.h"
+	"Player.h"
+	"Enemy.h"
+
+1543774532 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\warrior.h
+	<SDL.h>
+	<SDL_image.h>
+	"GTexture.h"
+	"Node.h"
+	"Point.h"
+	<time.h>
+	<string>
+	<cstring>
+	<fstream>
+
+1543763018 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\gtexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<iostream>
+
+1543773784 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\point.h
+
+1543635408 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\player.h
+	<fstream>
+
+1543626280 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\enemy.h
+	<fstream>
+
+1543777132 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\map.h
+	"Lane.h"
+
+1543777124 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\lane.h
+	"Warrior.h"
+	"Queue.h"
+	"Player.h"
+	"Enemy.h"
+	<fstream>
+
+1543777124 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\gameplay.h
+	<string>
+	<cstdlib>
+	"Map.h"
+	"Player.h"
+	"Enemy.h"
+	"Warrior.h"
+	<fstream>
+	<cstdlib>
+
+1543734714 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\iconslot.cpp
+	"IconSlot.h"
+
+1543758790 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\ltexture.cpp
+	"LTexture.h"
+	"SDL.h"
+	"SDL_image.h"
+	"iostream"
+
+1543918615 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"Screen.h"
+	"iostream"
+	"Buttons.h"
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"Screen.h"
+	"MenuScreen.h"
+	"GameScreen.h"
+	"SplashScreen.h"
+	"SDL_ttf.h"
+	"GamePlay/Map.h"
+	"QuitScreen.h"
+
+1543790246 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\menuscreen.h
+	"Buttons.h"
+	"Screen.h"
+	"AudioIcons.h"
+
+1543790740 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\splashscreen.h
+	"Screen.h"
+	"Words.h"
+
+1543789496 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\quitscreen.h
+	"Buttons.h"
+	"Screen.h"
+	"AudioIcons.h"
+
+1543797218 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\menuscreen.cpp
+	"MenuScreen.h"
+
+1542565976 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\money.cpp
+
+1543697934 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\onscreenobject.cpp
+	"OnScreenObject.h"
+
+1543737180 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\onscreentext.cpp
+
+1543759706 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\pausebutton.cpp
+
+1543790178 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\quitscreen.cpp
+	"QuitScreen.h"
+
+1543710844 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\screen.cpp
+	"Screen.h"
+
+1543839692 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\splashscreen.cpp
+	"Screen.h"
+	"SplashScreen.h"
+
+1543698448 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\ui_bar.cpp
+	"UI_Bar.h"
+
+1543693480 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\uniticon.cpp
+	"UnitIcon.h"
+
+1543685868 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\words.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"iostream"
+	"string"
+	"Words.h"
+
+1543779778 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\userinterface.cpp
+	"UserInterface.h"
+	<string>
+	"stdlib.h"
+	<cstdlib>
+	"stdlib.h"
+
+1543612306 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\archer.cpp
+	"Archer.h"
+	<time.h>
+	<cstdlib>
+
+1543626322 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\archer.h
+	"Warrior.h"
+
+1543612324 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\arrow.cpp
+	"Arrow.h"
+	<time.h>
+	<cstdlib>
+
+1543600740 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\arrow.h
+	"Warrior.h"
+
+1543612330 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\cavalry.cpp
+	"Cavalry.h"
+	<time.h>
+	<cstdlib>
+
+1541205870 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\cavalry.h
+	"Warrior.h"
+
+1543625354 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\enemy.cpp
+	"Enemy.h"
+	<iostream>
+	<stdlib.h>
+
+1543774824 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\enemyarcher.cpp
+	"EnemyArcher.h"
+	<time.h>
+	<cstdlib>
+
+1543769122 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\enemyarcher.h
+	"Archer.h"
+	"EnemyArrow.h"
+
+1543769136 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\enemyarrow.h
+	"Arrow.h"
+
+1543625354 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\enemyarrow.cpp
+	"Arrow.h"
+	"EnemyArrow.h"
+	<time.h>
+	<cstdlib>
+
+1543774598 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\enemycavalry.cpp
+	"EnemyCavalry.h"
+	<time.h>
+	<cstdlib>
+
+1543769626 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\enemycavalry.h
+	"Cavalry.h"
+
+1543775876 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\enemyguard.cpp
+	"EnemyGuard.h"
+	<time.h>
+	<cstdlib>
+
+1543769652 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\enemyguard.h
+	"Guard.h"
+	"Warrior.h"
+
+1543626322 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\guard.h
+	"Guard.h"
+	"Warrior.h"
+
+1543775464 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\enemyminer.cpp
+	"EnemyMiner.h"
+
+1543626322 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\enemyminer.h
+	"Miner.h"
+	"Warrior.h"
+
+1543769710 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\miner.h
+	"Miner.h"
+	"Warrior.h"
+
+1543768964 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\enemymyth.cpp
+	"EnemyMyth.h"
+	<time.h>
+	<cstdlib>
+
+1543769672 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\enemymyth.h
+	"Myth.h"
+	"Warrior.h"
+
+1543626322 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\myth.h
+	"Myth.h"
+	"Warrior.h"
+
+1543776470 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\enemysabotage.cpp
+	"EnemySabotage.h"
+	<time.h>
+	<cstdlib>
+
+1543769682 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\enemysabotage.h
+	"Sabotage.h"
+	"Warrior.h"
+
+1543626322 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\sabotage.h
+	"Sabotage.h"
+	"Warrior.h"
+
+1543768970 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\enemyswordsman.cpp
+	"EnemySwordsman.h"
+	<time.h>
+	<cstdlib>
+	<fstream>
+
+1543769696 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\enemyswordsman.h
+	"Swordsman.h"
+	"Warrior.h"
+
+1543626322 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\swordsman.h
+	"Swordsman.h"
+	"Warrior.h"
+
+1543777052 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\gameplay.cpp
+	"GamePlay.h"
+	<string>
+
+1543770084 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\gtexture.cpp
+	"GTexture.h"
+
+1543612442 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\guard.cpp
+	"Guard.h"
+	<cstdlib>
+
+1543776948 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\lane.cpp
+	"Lane.h"
+	<cstdlib>
+	"Point.h"
+	<time.h>
+	"Queue.h"
+	"PlayerArrow.h"
+	"fstream"
+
+1543626322 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\playerarrow.h
+	"Arrow.h"
+
+1543776990 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\map.cpp
+	"Map.h"
+	"Player.h"
+	"Enemy.h"
+	<fstream>
+
+1543768784 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\miner.cpp
+	"Miner.h"
+
+1543629756 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\myth.cpp
+	"Myth.h"
+	<time.h>
+	<cstdlib>
+
+1543629756 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\player.cpp
+	"Player.h"
+	<fstream>
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1543774824 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\playerarcher.cpp
+	"PlayerArcher.h"
+	<time.h>
+	<cstdlib>
+
+1543626322 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\playerarcher.h
+	"Archer.h"
+	"PlayerArrow.h"
+
+1543769004 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\playerarrow.cpp
+	"Arrow.h"
+	"PlayerArrow.h"
+	<time.h>
+	<cstdlib>
+
+1543774438 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\playercavalry.cpp
+	"PlayerCavalry.h"
+	<time.h>
+	<cstdlib>
+
+1543769462 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\playercavalry.h
+	"Cavalry.h"
+
+1543775818 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\playerguard.cpp
+	"PlayerGuard.h"
+	<time.h>
+	<cstdlib>
+
+1543769740 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\playerguard.h
+	"Guard.h"
+
+1543775426 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\playerminer.cpp
+	"PlayerMiner.h"
+
+1543625838 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\playerminer.h
+	"Miner.h"
+	"Warrior.h"
+
+1543769024 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\playermyth.cpp
+	"PlayerMyth.h"
+	<time.h>
+	<cstdlib>
+
+1543769760 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\playermyth.h
+	"Myth.h"
+	"Warrior.h"
+
+1543776470 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\playersabotage.cpp
+	"PlayerSabotage.h"
+	<time.h>
+	<cstdlib>
+
+1543769768 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\playersabotage.h
+	"Sabotage.h"
+
+1543769032 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\playerswordsman.cpp
+	"PlayerSwordsman.h"
+	<time.h>
+	<cstdlib>
+
+1543769778 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\playerswordsman.h
+	"Swordsman.h"
+
+1543478242 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\projectile.cpp
+
+1543612484 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\sabotage.cpp
+	"Sabotage.h"
+	<cstdlib>
+
+1543612492 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\swordsman.cpp
+	"Swordsman.h"
+	<time.h>
+	<cstdlib>
+
+1543775948 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\teleport.cpp
+	"Teleport.h"
+
+1543769808 c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\teleport.h
+	"Warrior.h"
+
+1543776008 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\warrior.cpp
+	"Warrior.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdlib.h>
+	<time.h>
+
+1543776716 source:c:\users\user\desktop\university docs\semester 3\oop\week 10\oop final\gameplay\warriorfactory.cpp
+	"WarriorFactory.h"
+	"PlayerSwordsman.h"
+	"EnemySwordsman.h"
+	"PlayerCavalry.h"
+	"EnemyCavalry.h"
+	"PlayerMyth.h"
+	"EnemyMyth.h"
+	"PlayerArcher.h"
+	"EnemyArcher.h"
+	"PlayerArrow.h"
+	"EnemyArrow.h"
+	"PlayerMiner.h"
+	"EnemyMiner.h"
+	"PlayerSabotage.h"
+	"EnemySabotage.h"
+	"PlayerGuard.h"
+	"EnemyGuard.h"
+	"Teleport.h"
+
+1543685966 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\audioicons.cpp
+	"AudioIcons.h"
+
+1543685280 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\audioicons.h
+	"SDL_image.h"
+	"iostream"
+	"string"
+	"LTexture.h"
+	"SDL_mixer.h"
+
+1543758752 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"SDL_ttf.h"
+
+1543685938 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\buttons.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"iostream"
+	"string"
+	"Buttons.h"
+
+1543685702 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\buttons.h
+	"SDL.h"
+	"SDL_image.h"
+	"iostream"
+	"string"
+	"Words.h"
+	"Characters.h"
+	"LTexture.h"
+	"SDL_mixer.h"
+
+1543250138 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\words.h
+	"SDL.h"
+	"SDL_image.h"
+	"iostream"
+	"string"
+	"Words.h"
+	"LTexture.h"
+	"Characters.h"
+
+1543248656 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\characters.h
+	"SDL.h"
+	"SDL_image.h"
+	"iostream"
+	"string"
+	"Characters.h"
+	"LTexture.h"
+
+1543254184 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\characters.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"iostream"
+	"string"
+	"Characters.h"
+
+1543612306 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\archer.cpp
+	"Archer.h"
+	<time.h>
+	<cstdlib>
+
+1543626322 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\archer.h
+	"Warrior.h"
+
+1543774532 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\warrior.h
+	<SDL.h>
+	<SDL_image.h>
+	"GTexture.h"
+	"Node.h"
+	"Point.h"
+	<time.h>
+	<string>
+	<cstring>
+	<fstream>
+
+1543763018 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\gtexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<iostream>
+
+1542388128 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\node.h
+
+1543773784 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\point.h
+
+1543612324 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\arrow.cpp
+	"Arrow.h"
+	<time.h>
+	<cstdlib>
+
+1543600740 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\arrow.h
+	"Warrior.h"
+
+1543612330 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\cavalry.cpp
+	"Cavalry.h"
+	<time.h>
+	<cstdlib>
+
+1541205870 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\cavalry.h
+	"Warrior.h"
+
+1543625354 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\enemy.cpp
+	"Enemy.h"
+	<iostream>
+	<stdlib.h>
+
+1543626280 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\enemy.h
+	<fstream>
+
+1543774824 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\enemyarcher.cpp
+	"EnemyArcher.h"
+	<time.h>
+	<cstdlib>
+
+1543769122 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\enemyarcher.h
+	"Archer.h"
+	"EnemyArrow.h"
+
+1543769136 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\enemyarrow.h
+	"Arrow.h"
+
+1543625354 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\enemyarrow.cpp
+	"Arrow.h"
+	"EnemyArrow.h"
+	<time.h>
+	<cstdlib>
+
+1543774598 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\enemycavalry.cpp
+	"EnemyCavalry.h"
+	<time.h>
+	<cstdlib>
+
+1543769626 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\enemycavalry.h
+	"Cavalry.h"
+
+1543775876 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\enemyguard.cpp
+	"EnemyGuard.h"
+	<time.h>
+	<cstdlib>
+
+1543769652 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\enemyguard.h
+	"Guard.h"
+	"Warrior.h"
+
+1543626322 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\guard.h
+	"Guard.h"
+	"Warrior.h"
+
+1543775464 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\enemyminer.cpp
+	"EnemyMiner.h"
+
+1543626322 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\enemyminer.h
+	"Miner.h"
+	"Warrior.h"
+
+1543769710 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\miner.h
+	"Miner.h"
+	"Warrior.h"
+
+1543768964 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\enemymyth.cpp
+	"EnemyMyth.h"
+	<time.h>
+	<cstdlib>
+
+1543769672 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\enemymyth.h
+	"Myth.h"
+	"Warrior.h"
+
+1543626322 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\myth.h
+	"Myth.h"
+	"Warrior.h"
+
+1543776470 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\enemysabotage.cpp
+	"EnemySabotage.h"
+	<time.h>
+	<cstdlib>
+
+1543769682 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\enemysabotage.h
+	"Sabotage.h"
+	"Warrior.h"
+
+1543626322 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\sabotage.h
+	"Sabotage.h"
+	"Warrior.h"
+
+1543768970 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\enemyswordsman.cpp
+	"EnemySwordsman.h"
+	<time.h>
+	<cstdlib>
+	<fstream>
+
+1543769696 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\enemyswordsman.h
+	"Swordsman.h"
+	"Warrior.h"
+
+1543626322 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\swordsman.h
+	"Swordsman.h"
+	"Warrior.h"
+
+1543921948 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\gameplay.cpp
+	"GamePlay.h"
+	<string>
+
+1543777124 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\gameplay.h
+	<string>
+	<cstdlib>
+	"Map.h"
+	"Player.h"
+	"Enemy.h"
+	"Warrior.h"
+	<fstream>
+	<cstdlib>
+
+1543777132 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\map.h
+	"Lane.h"
+
+1543777124 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\lane.h
+	"Warrior.h"
+	"Queue.h"
+	"Player.h"
+	"Enemy.h"
+	<fstream>
+
+1543796090 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\queue.h
+	"Node.h"
+	<iostream>
+	<stdlib.h>
+	<cmath>
+	<fstream>
+	"WarriorFactory.h"
+
+1543765332 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\warriorfactory.h
+	"Warrior.h"
+	"Player.h"
+	"Enemy.h"
+
+1543635408 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\player.h
+	<fstream>
+
+1543770084 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\gtexture.cpp
+	"GTexture.h"
+
+1543612442 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\guard.cpp
+	"Guard.h"
+	<cstdlib>
+
+1543776948 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\lane.cpp
+	"Lane.h"
+	<cstdlib>
+	"Point.h"
+	<time.h>
+	"Queue.h"
+	"PlayerArrow.h"
+	"fstream"
+
+1543626322 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\playerarrow.h
+	"Arrow.h"
+
+1543776990 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\map.cpp
+	"Map.h"
+	"Player.h"
+	"Enemy.h"
+	<fstream>
+
+1543768784 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\miner.cpp
+	"Miner.h"
+
+1543629756 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\myth.cpp
+	"Myth.h"
+	<time.h>
+	<cstdlib>
+
+1543629756 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\player.cpp
+	"Player.h"
+	<fstream>
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1543774824 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\playerarcher.cpp
+	"PlayerArcher.h"
+	<time.h>
+	<cstdlib>
+
+1543626322 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\playerarcher.h
+	"Archer.h"
+	"PlayerArrow.h"
+
+1543769004 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\playerarrow.cpp
+	"Arrow.h"
+	"PlayerArrow.h"
+	<time.h>
+	<cstdlib>
+
+1543774438 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\playercavalry.cpp
+	"PlayerCavalry.h"
+	<time.h>
+	<cstdlib>
+
+1543769462 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\playercavalry.h
+	"Cavalry.h"
+
+1543775818 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\playerguard.cpp
+	"PlayerGuard.h"
+	<time.h>
+	<cstdlib>
+
+1543769740 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\playerguard.h
+	"Guard.h"
+
+1543775426 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\playerminer.cpp
+	"PlayerMiner.h"
+
+1543625838 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\playerminer.h
+	"Miner.h"
+	"Warrior.h"
+
+1543769024 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\playermyth.cpp
+	"PlayerMyth.h"
+	<time.h>
+	<cstdlib>
+
+1543769760 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\playermyth.h
+	"Myth.h"
+	"Warrior.h"
+
+1543776470 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\playersabotage.cpp
+	"PlayerSabotage.h"
+	<time.h>
+	<cstdlib>
+
+1543769768 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\playersabotage.h
+	"Sabotage.h"
+
+1543769032 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\playerswordsman.cpp
+	"PlayerSwordsman.h"
+	<time.h>
+	<cstdlib>
+
+1543769778 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\playerswordsman.h
+	"Swordsman.h"
+
+1543478242 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\projectile.cpp
+
+1543612484 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\sabotage.cpp
+	"Sabotage.h"
+	<cstdlib>
+
+1543612492 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\swordsman.cpp
+	"Swordsman.h"
+	<time.h>
+	<cstdlib>
+
+1543775948 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\teleport.cpp
+	"Teleport.h"
+
+1543769808 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\teleport.h
+	"Warrior.h"
+
+1543776008 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\warrior.cpp
+	"Warrior.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdlib.h>
+	<time.h>
+
+1543776716 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gameplay\warriorfactory.cpp
+	"WarriorFactory.h"
+	"PlayerSwordsman.h"
+	"EnemySwordsman.h"
+	"PlayerCavalry.h"
+	"EnemyCavalry.h"
+	"PlayerMyth.h"
+	"EnemyMyth.h"
+	"PlayerArcher.h"
+	"EnemyArcher.h"
+	"PlayerArrow.h"
+	"EnemyArrow.h"
+	"PlayerMiner.h"
+	"EnemyMiner.h"
+	"PlayerSabotage.h"
+	"EnemySabotage.h"
+	"PlayerGuard.h"
+	"EnemyGuard.h"
+	"Teleport.h"
+
+1544096411 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gamescreen.cpp
+	"GameScreen.h"
+	"IconSlot.h"
+	"GamePlay/GTexture.h"
+
+1543792782 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\gamescreen.h
+	"Screen.h"
+	"OnScreenObject.h"
+	<stdio.h>
+	<time.h>
+	<cstdlib>
+	"UI_Bar.h"
+	"UserInterface.h"
+	"Buttons.h"
+	<fstream>
+	<string>
+	"GamePlay/Node.h"
+	"GamePlay/Queue.h"
+	"GamePlay/Map.h"
+	"GamePlay/GTexture.h"
+	"GamePlay/WarriorFactory.h"
+	"GamePlay/Player.h"
+	"GamePlay/Enemy.h"
+	"GamePlay/GamePlay.h"
+
+1543710328 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\screen.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"LTexture.h"
+	"iostream"
+	"string"
+	"SDL_ttf.h"
+
+1543737098 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\onscreenobject.h
+	"SDL.h"
+	"SDL_image.h"
+	"iostream"
+	"string"
+	"LTexture.h"
+
+1543697590 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\ui_bar.h
+	"OnScreenObject.h"
+
+1543778160 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\userinterface.h
+	"UI_Bar.h"
+	"IconSlot.h"
+	"SDL_ttf.h"
+	<iostream>
+	<string>
+	"stdlib.h"
+
+1543734698 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\iconslot.h
+	"OnScreenObject.h"
+	"UnitIcon.h"
+
+1543695404 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\uniticon.h
+	"OnScreenObject.h"
+
+1543734714 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\iconslot.cpp
+	"IconSlot.h"
+
+1543758790 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\ltexture.cpp
+	"LTexture.h"
+	"SDL.h"
+	"SDL_image.h"
+	"iostream"
+
+1543918615 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"Screen.h"
+	"iostream"
+	"Buttons.h"
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"Screen.h"
+	"MenuScreen.h"
+	"GameScreen.h"
+	"SplashScreen.h"
+	"SDL_ttf.h"
+	"GamePlay/Map.h"
+	"QuitScreen.h"
+
+1543790246 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\menuscreen.h
+	"Buttons.h"
+	"Screen.h"
+	"AudioIcons.h"
+
+1543790740 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\splashscreen.h
+	"Screen.h"
+	"Words.h"
+
+1543789496 c:\users\user\desktop\university docs\semester 3\oop\oop final project output\quitscreen.h
+	"Buttons.h"
+	"Screen.h"
+	"AudioIcons.h"
+
+1543797218 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\menuscreen.cpp
+	"MenuScreen.h"
+
+1542565976 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\money.cpp
+
+1543697934 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\onscreenobject.cpp
+	"OnScreenObject.h"
+
+1543737180 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\onscreentext.cpp
+
+1543759706 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\pausebutton.cpp
+
+1543790178 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\quitscreen.cpp
+	"QuitScreen.h"
+
+1543710844 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\screen.cpp
+	"Screen.h"
+
+1543839692 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\splashscreen.cpp
+	"Screen.h"
+	"SplashScreen.h"
+
+1543698448 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\ui_bar.cpp
+	"UI_Bar.h"
+
+1543693480 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\uniticon.cpp
+	"UnitIcon.h"
+
+1544094014 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\userinterface.cpp
+	"UserInterface.h"
+	<string>
+	"stdlib.h"
+	<cstdlib>
+	"stdlib.h"
+
+1543685868 source:c:\users\user\desktop\university docs\semester 3\oop\oop final project output\words.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"iostream"
+	"string"
+	"Words.h"
+

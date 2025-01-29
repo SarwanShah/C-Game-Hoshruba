@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="OOP Final" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/OOP Final" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/OOP Final" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="AudioIcons.cpp" />
+		<Unit filename="AudioIcons.h" />
+		<Unit filename="Buttons.cpp" />
+		<Unit filename="Buttons.h" />
+		<Unit filename="Characters.cpp" />
+		<Unit filename="Characters.h" />
+		<Unit filename="Game.txt" />
+		<Unit filename="GamePlay/Archer.cpp" />
+		<Unit filename="GamePlay/Archer.h" />
+		<Unit filename="GamePlay/Arrow.cpp" />
+		<Unit filename="GamePlay/Arrow.h" />
+		<Unit filename="GamePlay/Cavalry.cpp" />
+		<Unit filename="GamePlay/Cavalry.h" />
+		<Unit filename="GamePlay/Enemy.cpp" />
+		<Unit filename="GamePlay/Enemy.h" />
+		<Unit filename="GamePlay/EnemyArcher.cpp" />
+		<Unit filename="GamePlay/EnemyArcher.h" />
+		<Unit filename="GamePlay/EnemyArrow.cpp" />
+		<Unit filename="GamePlay/EnemyArrow.h" />
+		<Unit filename="GamePlay/EnemyCavalry.cpp" />
+		<Unit filename="GamePlay/EnemyCavalry.h" />
+		<Unit filename="GamePlay/EnemyGuard.cpp" />
+		<Unit filename="GamePlay/EnemyGuard.h" />
+		<Unit filename="GamePlay/EnemyMiner.cpp" />
+		<Unit filename="GamePlay/EnemyMiner.h" />
+		<Unit filename="GamePlay/EnemyMyth.cpp" />
+		<Unit filename="GamePlay/EnemyMyth.h" />
+		<Unit filename="GamePlay/EnemySabotage.cpp" />
+		<Unit filename="GamePlay/EnemySabotage.h" />
+		<Unit filename="GamePlay/EnemySwordsman.cpp" />
+		<Unit filename="GamePlay/EnemySwordsman.h" />
+		<Unit filename="GamePlay/GTexture.cpp" />
+		<Unit filename="GamePlay/GTexture.h" />
+		<Unit filename="GamePlay/Game.txt" />
+		<Unit filename="GamePlay/GamePlay.cpp" />
+		<Unit filename="GamePlay/GamePlay.h" />
+		<Unit filename="GamePlay/Guard.cpp" />
+		<Unit filename="GamePlay/Guard.h" />
+		<Unit filename="GamePlay/Lane.cpp" />
+		<Unit filename="GamePlay/Lane.h" />
+		<Unit filename="GamePlay/Map.cpp" />
+		<Unit filename="GamePlay/Map.h" />
+		<Unit filename="GamePlay/Miner.cpp" />
+		<Unit filename="GamePlay/Miner.h" />
+		<Unit filename="GamePlay/Myth.cpp" />
+		<Unit filename="GamePlay/Myth.h" />
+		<Unit filename="GamePlay/Node.h" />
+		<Unit filename="GamePlay/Player.cpp" />
+		<Unit filename="GamePlay/Player.h" />
+		<Unit filename="GamePlay/PlayerArcher.cpp" />
+		<Unit filename="GamePlay/PlayerArcher.h" />
+		<Unit filename="GamePlay/PlayerArrow.cpp" />
+		<Unit filename="GamePlay/PlayerArrow.h" />
+		<Unit filename="GamePlay/PlayerCavalry.cpp" />
+		<Unit filename="GamePlay/PlayerCavalry.h" />
+		<Unit filename="GamePlay/PlayerGuard.cpp" />
+		<Unit filename="GamePlay/PlayerGuard.h" />
+		<Unit filename="GamePlay/PlayerMiner.cpp" />
+		<Unit filename="GamePlay/PlayerMiner.h" />
+		<Unit filename="GamePlay/PlayerMyth.cpp" />
+		<Unit filename="GamePlay/PlayerMyth.h" />
+		<Unit filename="GamePlay/PlayerSabotage.cpp" />
+		<Unit filename="GamePlay/PlayerSabotage.h" />
+		<Unit filename="GamePlay/PlayerSwordsman.cpp" />
+		<Unit filename="GamePlay/PlayerSwordsman.h" />
+		<Unit filename="GamePlay/Point.h" />
+		<Unit filename="GamePlay/Projectile.cpp" />
+		<Unit filename="GamePlay/Projectile.h" />
+		<Unit filename="GamePlay/Queue.h" />
+		<Unit filename="GamePlay/Sabotage.cpp" />
+		<Unit filename="GamePlay/Sabotage.h" />
+		<Unit filename="GamePlay/Swordsman.cpp" />
+		<Unit filename="GamePlay/Swordsman.h" />
+		<Unit filename="GamePlay/Teleport.cpp" />
+		<Unit filename="GamePlay/Teleport.h" />
+		<Unit filename="GamePlay/Warrior.cpp" />
+		<Unit filename="GamePlay/Warrior.h" />
+		<Unit filename="GamePlay/WarriorFactory.cpp" />
+		<Unit filename="GamePlay/WarriorFactory.h" />
+		<Unit filename="GameScreen.cpp" />
+		<Unit filename="GameScreen.h" />
+		<Unit filename="IconSlot.cpp" />
+		<Unit filename="IconSlot.h" />
+		<Unit filename="LTexture.cpp" />
+		<Unit filename="LTexture.h" />
+		<Unit filename="MenuScreen.cpp" />
+		<Unit filename="MenuScreen.h" />
+		<Unit filename="Money.cpp" />
+		<Unit filename="Money.h" />
+		<Unit filename="OnScreenObject.cpp" />
+		<Unit filename="OnScreenObject.h" />
+		<Unit filename="OnScreenText.cpp" />
+		<Unit filename="OnScreenText.h" />
+		<Unit filename="PauseButton.h" />
+		<Unit filename="Pausebutton.cpp" />
+		<Unit filename="QuitScreen.cpp" />
+		<Unit filename="QuitScreen.h" />
+		<Unit filename="Screen.cpp" />
+		<Unit filename="Screen.h" />
+		<Unit filename="SplashScreen.cpp" />
+		<Unit filename="SplashScreen.h" />
+		<Unit filename="UI_Bar.h" />
+		<Unit filename="UI_bar.cpp" />
+		<Unit filename="UnitIcon.cpp" />
+		<Unit filename="UnitIcon.h" />
+		<Unit filename="UserInterface.cpp" />
+		<Unit filename="UserInterface.h" />
+		<Unit filename="Words.cpp" />
+		<Unit filename="Words.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

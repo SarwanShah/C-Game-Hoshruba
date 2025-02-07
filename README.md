@@ -3,7 +3,7 @@
 ## **Project Overview**
 This project was developed under the **CS224 Object-Oriented Programming and Design Methodologies** course at **Habib University** during Fall 2018. It focuses on building a game using **SDL (Simple DirectMedia Layer)** while implementing core object-oriented programming concepts such as **UML design, inheritance, polymorphism, encapsulation, and object interactions**.
 
-**REPORT/GUIDE:**
+**REPORT/GUIDE: https://github.com/SarwanShah/Hoshruba-A-Game-In-C-Plus-Plus/blob/main/Project%20Guide.pdf**
 **VIDEO DEMONSTRATION:**
 
 <a href="https://www.youtube.com/watch?v=CV8p5Sln6ug" target="_blank">

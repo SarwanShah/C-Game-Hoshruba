@@ -6,9 +6,8 @@ This project was developed under the **CS224 Object-Oriented Programming and Des
 **REPORT/GUIDE:**
 **VIDEO DEMONSTRATION: https://www.youtube.com/watch?v=CV8p5Sln6ug**
 
-<a href="https://www.youtube.com/watch?v=CV8p5Sln6ug" target="_blank">
-    <img src="https://img.youtube.com/vi/_CV8p5Sln6ug/maxresdefault.jpg" alt="Watch the video" width="400" style="position: relative;">
-</a>
+[![Watch the video](https://img.youtube.com/vi/CV8p5Sln6ug/maxresdefault.jpg)](https://www.youtube.com/watch?v=CV8p5Sln6ug)
+
 
 ## **Project Features**
 - **Game Development using SDL**: Implements LazyFoo SDL tutorials for rendering graphics, handling user input, and processing game logic.

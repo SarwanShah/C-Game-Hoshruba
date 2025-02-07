@@ -6,7 +6,10 @@ This project was developed under the **CS224 Object-Oriented Programming and Des
 **REPORT/GUIDE:**
 **VIDEO DEMONSTRATION: https://www.youtube.com/watch?v=CV8p5Sln6ug**
 
-[![Watch the video](https://img.youtube.com/vi/CV8p5Sln6ug/maxresdefault.jpg)](https://www.youtube.com/watch?v=CV8p5Sln6ug)
+<a href="https://www.youtube.com/watch?v=CV8p5Sln6ug" target="_blank">
+    <img src="https://img.youtube.com/vi/CV8p5Sln6ug/maxresdefault.jpg" alt="Watch the video" width="400">
+</a>
+
 
 
 ## **Project Features**
